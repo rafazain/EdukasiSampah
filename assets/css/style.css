@@ -361,7 +361,8 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/hero-bg.jpg") top center;
+  /* Ini url dibawah ganti sama gambar cover utamamu */
+  background: url("../img/recycle.png") top center;
   background-size: cover;
   position: relative;
 }
